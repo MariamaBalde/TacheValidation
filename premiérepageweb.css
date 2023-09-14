@@ -185,8 +185,9 @@ body {
     font-family: 'Arial Narrow Bold', sans-serif;
     font-size: 40px;
     position: relative;
-    top: 57px;
-    right: 23px;
+    top: 30px;
+    /* top: 57px; */
+    /* right: 23px; */
 }
 
 .div41 select {
@@ -203,8 +204,9 @@ body {
    background-image: url(Montre2-removebg-preview.png);
    background-repeat: no-repeat;
    background-size: 200px;
-   background-position: 115% 45%;
+   background-position: 115% 45% ;
  }
+
 
  .div412{
   background-image: url(secondshoes-removebg-preview.png);
